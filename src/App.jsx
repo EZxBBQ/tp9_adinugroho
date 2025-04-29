@@ -124,7 +124,7 @@ function App() {
 
     {activeSection === 'about' && (
         <div className="p-8">
-          <h1>About Us</h1>
+          <h1>Adi Nugroho (2306208546)</h1>
         </div>
     )}
 
